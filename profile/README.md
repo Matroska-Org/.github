@@ -4,4 +4,4 @@ Matroska is an audio/video container, often found with the .mkv extension. It is
 
 The IETF standards repositories can be found at https://github.com/ietf-wg-cellar/matroska-specification and https://github.com/ietf-wg-cellar/ebml-specification
 
-Follow us on Mastodon: https://fosstodon.org/@matroska
+Follow us on <a rel="me" href="https://fosstodon.org/@matroska">Mastodon</a>
